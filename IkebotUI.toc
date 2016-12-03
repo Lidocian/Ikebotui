@@ -1,0 +1,12 @@
+## Interface: 
+## Title: IkebotUI
+## Author: Lidocain
+## Version: 22
+## Notes: For conan513gm's SPP
+## DefaultState: Enabled
+## LoadOnDemand: 0
+IkebotUI.lua
+IkebotUIForm1.xml
+IkebotUIForm3.xml
+IkebotUIForm10.xml
+IkebotUIForm8.xml
