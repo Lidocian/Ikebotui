@@ -1,4 +1,4 @@
-## Interface: 
+## Interface: 11200
 ## Title: IkebotUI
 ## Author: Lidocain
 ## Version: 22
